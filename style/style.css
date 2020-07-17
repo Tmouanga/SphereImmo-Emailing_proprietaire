@@ -62,6 +62,7 @@ h1 {
 .redfont img {
     width: 260px;
     height: 215px;
+    min-width: 260px;
 }
 
 .redfont-text {
@@ -126,6 +127,7 @@ h2 {
 .s-trust img {
     width: 223px;
     height: 224px;
+    min-width: 223px;
 }
 
 .s-trust p {
